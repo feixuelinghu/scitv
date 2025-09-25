@@ -165,13 +165,15 @@ http://192.168.50.1:8012/udp/239.94.0.113:5140
 http://192.168.50.1:8012/udp/239.94.0.114:5140
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/SCWS4K.png" group-title="4k",四川卫视4k
 http://192.168.50.1:8012/udp/239.94.0.115:5140
-#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/HNWS.png" group-title="4k",湖南卫视4k
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/HNWS4K.png" group-title="4k",湖南卫视4k
 http://192.168.50.1:8012/udp/239.94.0.116:5140
-#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/JSWS.png" group-title="4k",江苏卫视4k
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/JSWS4K.png" group-title="4k",江苏卫视4k
 http://192.168.50.1:8012/udp/239.94.0.117:5140
-#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/ZJWS.png" group-title="4k",浙江卫视4k
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/ZJWS4K.png" group-title="4k",浙江卫视4k
 http://192.168.50.1:8012/udp/239.94.0.118:5140
-#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/SDWS.png" group-title="4k",山东卫视4k
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/DFWS4K.png" group-title="4k",东方卫视4k
+http://192.168.50.1:8012/udp/239.94.0.119:5140
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/SDWS4K.png" group-title="4k",山东卫视4k
 http://192.168.50.1:8012/udp/239.94.0.120:5140
 #EXTINF:-1 tvg-id="天翼高清" tvg-name="天翼高清" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/TYGQ.png" group-title="4k",天翼高清4k
 http://192.168.50.1:8012/udp/239.94.2.40:5140
