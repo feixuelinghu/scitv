@@ -349,7 +349,7 @@ http://192.168.50.1:8012/udp/239.94.1.23:5140
 http://192.168.50.1:8012/udp/239.94.1.24:5140
 #EXTINF:-1 tvg-id="健康养生" tvg-name="健康养生" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/BesTV%E5%81%A5%E5%BA%B7%E5%85%BB%E7%94%9F.png" group-title="数字付费",健康养生
 http://192.168.50.1:8012/udp/239.94.1.27:5140
-#EXTINF:-1 tvg-id="百变课堂" tvg-name="百变课堂" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/BesTV%E7%99%BE%E5%8F%98%E8%AF%BE%E5%A0%82.png" group-title="数字付费",百变课堂
+#EXTINF:-1 tvg-id="百变课堂" tvg-name="百变课堂" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/BesTVBBKT.png" group-title="数字付费",百变课堂
 http://192.168.50.1:8012/udp/239.94.1.43:5140
 #EXTINF:-1 tvg-id="热门剧场" tvg-name="热门剧场" tvg-logo="https://raw.githubusercontent.com/feixuelinghu/feixue/main/BesTV%E7%83%AD%E9%97%A8%E5%89%A7%E5%9C%BA.png" group-title="数字付费",热门剧场                                                                                                                                                             
 http://192.168.50.1:8012/udp/239.94.1.26:5140
