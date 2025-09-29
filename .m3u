@@ -135,7 +135,7 @@ http://192.168.50.1:8012/udp/239.94.2.49:5140
 http://192.168.50.1:8012/udp/239.94.2.53:5140
 #EXTINF:-1 tvg-id="Channel[v]" tvg-name="卫视音乐台" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/v.jpg" group-title="香港",卫视音乐台
 http://192.168.50.1:8012/udp/239.94.2.55:5140
-#EXTINF:-1 tvg-id="6241" tvg-name="CHC影迷电影" tvg-logo="https://live.fanmingming.com/tv/CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1.png" group-title="CHC",CHC影迷电影
+#EXTINF:-1 tvg-id="6241" tvg-name="CHC影迷电影" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/CHC3.png" group-title="CHC",CHC影迷电影
 http://192.168.50.1:8012/udp/239.94.1.174:5140
 #EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭影院" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="CHC",CHC家庭影院
 http://192.168.50.1:8012/udp/239.94.1.173:5140
