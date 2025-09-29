@@ -339,29 +339,29 @@ http://192.168.50.1:8012/udp/239.94.1.46:5140
 http://192.168.50.1:8012/udp/239.94.1.50:5140
 #EXTINF:-1 tvg-id="经典电影" tvg-name="经典电影" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/IPTVJDDY.png" group-title="数字付费",经典电影
 http://192.168.50.1:8012/udp/239.94.1.21:5140
-#EXTINF:-1 tvg-id="华语影院" tvg-name="华语影院" tvg-logo="https://raw.githubusercontent.com/feixuelinghu/feixue/main/BesTV%E5%8D%8E%E8%AF%AD%E5%BD%B1%E9%99%A2.png" group-title="数字付费",华语影院
+#EXTINF:-1 tvg-id="华语影院" tvg-name="华语影院" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/BesTVHYYY.png" group-title="数字付费",华语影院
 http://192.168.50.1:8012/udp/239.94.1.22:5140
-#EXTINF:-1 tvg-id="戏曲精选" tvg-name="戏曲精选" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/BesTV%E6%88%8F%E6%9B%B2%E7%B2%BE%E9%80%89.png" group-title="数字付费",戏曲精选                                                                                                                                                             
+#EXTINF:-1 tvg-id="戏曲精选" tvg-name="戏曲精选" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/BesTVXQJX.png" group-title="数字付费",戏曲精选                                                                                                                                                             
 http://192.168.50.1:8012/udp/239.94.1.37:5140
-#EXTINF:-1 tvg-id="星光院线" tvg-name="星光院线" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/BesTV%E6%98%9F%E5%85%89%E5%BD%B1%E9%99%A2.png" group-title="数字付费",星光院线
+#EXTINF:-1 tvg-id="星光院线" tvg-name="星光院线" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/BesTVXGYY.png" group-title="数字付费",星光院线
 http://192.168.50.1:8012/udp/239.94.1.23:5140
-#EXTINF:-1 tvg-id="全球大片" tvg-name="全球大片" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/BesTV%E5%85%A8%E7%90%83%E5%A4%A7%E7%89%87.png" group-title="数字付费",全球大片
+#EXTINF:-1 tvg-id="全球大片" tvg-name="全球大片" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/BesTVQQDP.png" group-title="数字付费",全球大片
 http://192.168.50.1:8012/udp/239.94.1.24:5140
-#EXTINF:-1 tvg-id="健康养生" tvg-name="健康养生" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/BesTV%E5%81%A5%E5%BA%B7%E5%85%BB%E7%94%9F.png" group-title="数字付费",健康养生
+#EXTINF:-1 tvg-id="健康养生" tvg-name="健康养生" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/BesTVJKYS.png" group-title="数字付费",健康养生
 http://192.168.50.1:8012/udp/239.94.1.27:5140
 #EXTINF:-1 tvg-id="百变课堂" tvg-name="百变课堂" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/BesTVBBKT.png" group-title="数字付费",百变课堂
 http://192.168.50.1:8012/udp/239.94.1.43:5140
-#EXTINF:-1 tvg-id="热门剧场" tvg-name="热门剧场" tvg-logo="https://raw.githubusercontent.com/feixuelinghu/feixue/main/BesTV%E7%83%AD%E9%97%A8%E5%89%A7%E5%9C%BA.png" group-title="数字付费",热门剧场                                                                                                                                                             
+#EXTINF:-1 tvg-id="热门剧场" tvg-name="热门剧场" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/BesTVRMJC.png" group-title="数字付费",热门剧场                                                                                                                                                             
 http://192.168.50.1:8012/udp/239.94.1.26:5140
-#EXTINF:-1 tvg-id="谍战剧场" tvg-name="谍战剧场" tvg-logo="https://raw.githubusercontent.com/feixuelinghu/feixue/main/BesTV%E8%B0%8D%E6%88%98%E5%89%A7%E5%9C%BA.png" group-title="数字付费",谍战剧场                                                                                                                                                             
+#EXTINF:-1 tvg-id="谍战剧场" tvg-name="谍战剧场" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/BesTVDZJC.png" group-title="数字付费",谍战剧场                                                                                                                                                             
 http://192.168.50.1:8012/udp/239.94.1.28:5140
 #EXTINF:-1 tvg-id="宝宝动画" tvg-name="宝宝动画" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/BesTVBBDH.png" group-title="数字付费",宝宝动画高清                                                                                                                                                          
 http://192.168.50.1:8012/udp/239.94.1.32:5140
-#EXTINF:-1 tvg-id="青春动漫" tvg-name="青春动漫" tvg-logo="https://raw.githubusercontent.com/feixuelinghu/feixue/main/BesTV%E9%9D%92%E6%98%A5%E5%8A%A8%E6%BC%AB.png" group-title="数字付费",青春动漫                                                                                                                                                             
+#EXTINF:-1 tvg-id="青春动漫" tvg-name="青春动漫" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/BesTVQCDM.png" group-title="数字付费",青春动漫                                                                                                                                                             
 http://192.168.50.1:8012/udp/239.94.1.34:5140
 #EXTINF:-1 tvg-id="热门综艺" tvg-name="热门综艺" tvg-logo="https://raw.githubusercontent.com/feixuelinghu/feixue/main/BesTV%E7%83%AD%E9%97%A8%E7%BB%BC%E8%89%BA.png" group-title="数字付费",热门综艺高清                                                                                                                                                         
 http://192.168.50.1:8012/udp/239.94.1.35:5140
-#EXTINF:-1 tvg-id="85" tvg-name="电竞天堂" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dianjingtiantang.png" group-title="数字付费",电竞天堂
+#EXTINF:-1 tvg-id="85" tvg-name="电竞天堂" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/BesTVDJTT.png" group-title="数字付费",电竞天堂
 http://192.168.50.1:8012/udp/239.94.1.45:5140
 #EXTINF:-1 tvg-id="看天下精选" tvg-name="看天下精选" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/ktxjx.png" group-title="数字付费",看天下精选
 http://192.168.50.1:8012/udp/239.94.1.68:5140
