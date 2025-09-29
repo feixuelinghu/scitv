@@ -119,13 +119,13 @@ http://192.168.50.1:8012/udp/239.94.1.7:5140
 http://192.168.50.1:8012/udp/239.94.1.8:5140                                                                                                                                                           
 #EXTINF:-1 tvg-id="熊猫爱生活" tvg-name="熊猫爱生活" tvg-logo="https://raw.githubusercontent.com/feixuelinghu/feixue/main/%E7%86%8A%E7%8C%AB%E7%88%B1%E7%94%9F%E6%B4%BB.png" group-title="四川",熊猫爱生活高清 
 http://192.168.50.1:8012/udp/239.94.1.11:5140
-#EXTINF:-1 tvg-id="大爱四川" tvg-name="大爱四川" tvg-logo="https://raw.githubusercontent.com/feixuelinghu/feixue/main/%E5%A4%A7%E7%88%B1%E5%9B%9B%E5%B7%9D.png" group-title="四川",大爱四川高清
+#EXTINF:-1 tvg-id="大爱四川" tvg-name="大爱四川" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/DASC.png" group-title="四川",大爱四川高清
 http://192.168.50.1:8012/udp/239.94.1.12:5140
-#EXTINF:-1 tvg-id="大爱旅游" tvg-name="大爱旅游" tvg-logo="https://raw.githubusercontent.com/feixuelinghu/feixue/main/%E5%A4%A7%E7%88%B1%E6%97%85%E6%B8%B8.png" group-title="四川",大爱旅游高清
+#EXTINF:-1 tvg-id="大爱旅游" tvg-name="大爱旅游" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/DALY.png" group-title="四川",大爱旅游高清
 http://192.168.50.1:8012/udp/239.94.1.13:5140
-#EXTINF:-1 tvg-id="大爱生活" tvg-name="大爱生活" tvg-logo="https://raw.githubusercontent.com/feixuelinghu/feixue/main/%E5%A4%A7%E7%88%B1%E7%94%9F%E6%B4%BB.png" group-title="四川",大爱生活高清
+#EXTINF:-1 tvg-id="大爱生活" tvg-name="大爱生活" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/DASH.png" group-title="四川",大爱生活高清
 http://192.168.50.1:8012/udp/239.94.1.14:5140
-#EXTINF:-1 tvg-id="大爱时尚" tvg-name="大爱时尚" tvg-logo="https://raw.githubusercontent.com/feixuelinghu/feixue/main/%E5%A4%A7%E7%88%B1%E6%97%B6%E5%B0%9A.png" group-title="四川",大爱时尚高清
+#EXTINF:-1 tvg-id="大爱时尚" tvg-name="大爱时尚" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/DASS.png" group-title="四川",大爱时尚高清
 http://192.168.50.1:8012/udp/239.94.1.15:5140
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix1.png" group-title="香港",凤凰卫视中文台
 http://192.168.50.1:8012/udp/239.94.2.51:5140
