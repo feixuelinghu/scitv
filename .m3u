@@ -381,7 +381,7 @@ http://192.168.50.1:8012/udp/239.94.1.41:5140
 http://192.168.50.1:8012/udp/239.94.1.44:5140
 #EXTINF:-1 tvg-id="足球" tvg-name="足球高清" tvg-logo="https://raw.githubusercontent.com/feixuelinghu/feixue/main/%E8%B6%B3%E7%90%83.png" group-title="数字付费",足球高清                                                                                                                                                             
 http://192.168.50.1:8012/udp/239.94.1.47:5140
-#EXTINF:-1 tvg-id="红色影院" tvg-name="红色影院" tvg-logo="https://raw.githubusercontent.com/feixuelinghu/feixue/main/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="数字付费",红色影院                                                                                                                                                            
+#EXTINF:-1 tvg-id="红色影院" tvg-name="红色影院" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/IPTV6%2B.png" group-title="数字付费",红色影院                                                                                                                                                            
 http://192.168.50.1:8012/udp/239.94.1.48:5140
 #EXTINF:-1 tvg-id="墨宝" tvg-name="墨宝高清" tvg-logo="https://raw.githubusercontent.com/feixuelinghu/feixue/main/%E5%A2%A8%E5%AE%9D.png" group-title="数字付费",墨宝高清                                                                                                                                                             
 http://192.168.50.1:8012/udp/239.94.1.51:5140
