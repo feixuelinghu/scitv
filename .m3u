@@ -95,9 +95,9 @@ http://192.168.50.1:8012/udp/239.94.1.149:5140
 http://192.168.50.1:8012/udp/239.94.1.138:5140
 #EXTINF:-1 tvg-id="爱宠宠物" tvg-name="爱宠宠物" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/ACCW.png" group-title="四川",爱宠宠物                                                                                                                                                             
 http://192.168.50.1:8012/udp/239.94.1.145:5140
-#EXTINF:-1 tvg-id="乐龄学堂" tvg-name="乐龄学堂" tvg-logo="https://raw.githubusercontent.com/feixuelinghu/feixue/main/%E4%B9%90%E9%BE%84%E5%AD%A6%E5%A0%82.png" group-title="四川",乐龄学堂                                                                                                                                                             
+#EXTINF:-1 tvg-id="乐龄学堂" tvg-name="乐龄学堂" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/LLXT.png" group-title="四川",乐龄学堂                                                                                                                                                             
 http://192.168.50.1:8012/udp/239.94.1.155:5140
-#EXTINF:-1 tvg-id="来钓鱼吧" tvg-name="来钓鱼吧" tvg-logo="https://raw.githubusercontent.com/feixuelinghu/feixue/main/%E6%9D%A5%E9%92%93%E9%B1%BC%E5%90%A7.png" group-title="四川",来钓鱼吧                                                                                                                                                             
+#EXTINF:-1 tvg-id="来钓鱼吧" tvg-name="来钓鱼吧" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/LDYB.png" group-title="四川",来钓鱼吧                                                                                                                                                             
 http://192.168.50.1:8012/udp/239.94.1.148:5140
 #EXTINF:-1 tvg-id="i成都" tvg-name="i成都" tvg-logo="https://raw.githubusercontent.com/feixuelinghu/feixue/main/i%E6%88%90%E9%83%BD.png" group-title="四川",i成都                                                                                                                                                             
 http://192.168.50.1:8012/udp/239.94.2.1:5140
