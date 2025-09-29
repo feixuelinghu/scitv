@@ -83,7 +83,7 @@ http://192.168.50.1:8012/udp/239.94.0.157:5140
 http://192.168.50.1:8012/udp/239.94.0.158:5140
 #EXTINF:-1 tvg-id="2069" tvg-name="CDTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv6.png" group-title="四川",CDTV-6高清                                                                                                                                                             
 http://192.168.50.1:8012/udp/239.94.0.159:5140
-#EXTINF:-1 tvg-id="" tvg-name="成都每日购物" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/%E6%88%90%E9%83%BD%E6%AF%8F%E6%97%A5%E8%B4%AD%E7%89%A9.png" group-title="四川",CDTV-8高清                                                                                                                                                          
+#EXTINF:-1 tvg-id="" tvg-name="成都每日购物" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/cdtv8.png" group-title="四川",CDTV-8高清                                                                                                                                                          
 http://192.168.50.1:8012/udp/239.94.0.160:5140
 #EXTINF:-1 tvg-id="蓉城先锋" tvg-name="蓉城先锋" tvg-logo="https://www.cd12371.com/img/logo.png" group-title="四川",蓉城先锋                                                                                                                                                             
 http://192.168.50.1:8012/udp/239.94.1.57:5140
