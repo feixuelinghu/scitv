@@ -113,7 +113,7 @@ http://192.168.50.1:8012/udp/239.94.1.4:5140
 http://192.168.50.1:8012/udp/239.94.1.5:5140	
 #EXTINF:-1 tvg-id="熊猫影院" tvg-name="熊猫影院" tvg-logo="https://raw.githubusercontent.com/feixuelinghu/feixue/main/%E7%86%8A%E7%8C%AB%E5%BD%B1%E9%99%A2.png" group-title="四川",熊猫影院高清	
 http://192.168.50.1:8012/udp/239.94.1.6:5140		
-#EXTINF:-1 tvg-id="云看熊猫" tvg-name="云看熊猫" tvg-logo="https://raw.githubusercontent.com/feixuelinghu/feixue/main/%E4%BA%91%E7%9C%8B%E7%86%8A%E7%8C%AB.png" group-title="四川",云看熊猫	
+#EXTINF:-1 tvg-id="云看熊猫" tvg-name="云看熊猫" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/YKXM.png" group-title="四川",云看熊猫	
 http://192.168.50.1:8012/udp/239.94.1.7:5140	
 #EXTINF:-1 tvg-id="金熊猫卡通" tvg-name="金熊猫卡通" tvg-logo="https://raw.githubusercontent.com/feixuelinghu/feixue/main/%E9%87%91%E7%86%8A%E7%8C%AB%E5%8D%A1%E9%80%9A.png" group-title="四川",金熊猫卡通高清	
 http://192.168.50.1:8012/udp/239.94.1.8:5140                                                                                                                                                           
