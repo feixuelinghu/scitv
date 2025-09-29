@@ -337,7 +337,7 @@ http://192.168.50.1:8012/udp/239.94.1.67:5140
 http://192.168.50.1:8012/udp/239.94.1.46:5140
 #EXTINF:-1 tvg-id="家庭理财" tvg-name="家庭理财" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/jtlc.png" group-title="数字付费",家庭理财                                                                                                                                                           
 http://192.168.50.1:8012/udp/239.94.1.50:5140
-#EXTINF:-1 tvg-id="经典电影" tvg-name="经典电影" tvg-logo="https://raw.githubusercontent.com/feixuelinghu/feixue/main/%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1%E4%B8%93%E5%8C%BA.png" group-title="数字付费",经典电影
+#EXTINF:-1 tvg-id="经典电影" tvg-name="经典电影" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/IPTVJDDY.png" group-title="数字付费",经典电影
 http://192.168.50.1:8012/udp/239.94.1.21:5140
 #EXTINF:-1 tvg-id="华语影院" tvg-name="华语影院" tvg-logo="https://raw.githubusercontent.com/feixuelinghu/feixue/main/BesTV%E5%8D%8E%E8%AF%AD%E5%BD%B1%E9%99%A2.png" group-title="数字付费",华语影院
 http://192.168.50.1:8012/udp/239.94.1.22:5140
