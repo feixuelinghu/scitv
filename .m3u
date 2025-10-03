@@ -39,9 +39,9 @@ http://192.168.50.1:8012/udp/239.94.0.39:5140
 http://192.168.50.1:8012/udp/239.94.0.20:5140
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/CGTN.png" group-title="央视",CGTN英语                                                                                                                                                           
 http://192.168.50.1:8012/udp/239.94.0.40:5140
-#EXTINF:-1 tvg-id="20" tvg-name="CGTN西语" tvg-logo="https://live.fanmingming.com/tv/CGTN西语.png" group-title="央视",CGTN西班牙语                                                                                                                                                             
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN西语" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/CGTNE.png" group-title="央视",CGTN西班牙语                                                                                                                                                             
 http://192.168.50.1:8012/udp/239.94.1.65:5140
-#EXTINF:-1 tvg-id="20" tvg-name="CGTN法语" tvg-logo="https://live.fanmingming.com/tv/CGTN法语.png" group-title="央视",CGTN法语                                                                                                                                                          
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN法语" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/CGTNF.png" group-title="央视",CGTN法语                                                                                                                                                          
 http://192.168.50.1:8012/udp/239.94.1.66:5140
 #EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="央视",CETV-1高清                                                                                                                                                             
 http://192.168.50.1:8012/udp/239.94.1.2:5140
@@ -285,15 +285,15 @@ http://192.168.50.1:8012/udp/239.94.0.98:5140
 http://192.168.50.1:8012/udp/239.94.0.99:5140
 #EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视",海南卫视                                                                                                                                                             
 http://192.168.50.1:8012/udp/239.94.0.100:5140
-#EXTINF:-1 tvg-id="农林卫视"tvg-name="农林卫视" tvg-logo="https://github.com/fanmingming/live/raw/main/tv/%E5%86%9C%E6%9E%97%E5%8D%AB%E8%A7%86.png" group-title="卫视",农林卫视                                                                                                                                                           
+#EXTINF:-1 tvg-id="农林卫视"tvg-name="农林卫视" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/nonglinweishi.png" group-title="卫视",农林卫视                                                                                                                                                           
 http://192.168.50.1:8012/udp/239.94.0.108:5140
 #EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="卫视",兵团卫视高清                                                                                                                                                            
 http://192.168.50.1:8012/udp/239.94.0.102:5140
-#EXTINF:-1 tvg-id="68" tvg-name="厦门卫视" tvg-logo="https://github.com/fanmingming/live/raw/main/tv/%E5%8E%A6%E9%97%A8%E5%8D%AB%E8%A7%86.png" group-title="卫视",厦门卫视                                                                                                                                                             
+#EXTINF:-1 tvg-id="68" tvg-name="厦门卫视" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/xiamen.png" group-title="卫视",厦门卫视                                                                                                                                                             
 http://192.168.50.1:8012/udp/239.94.0.104:5140
 #EXTINF:-1 tvg-id="72" tvg-name="三沙卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sansha.png" group-title="卫视",三沙卫视                                                                                                                                                             
 http://192.168.50.1:8012/udp/239.94.0.105:5140
-#EXTINF:-1 tvg-id="山东教育卫视" tvg-name="山东教育卫视" tvg-logo="https://github.com/fanmingming/live/raw/main/tv/%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2.png" group-title="卫视",山东教育卫视                                                                                                                                                             
+#EXTINF:-1 tvg-id="山东教育卫视" tvg-name="山东教育卫视" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/shamdongjiaoyu.png" group-title="卫视",山东教育卫视                                                                                                                                                             
 http://192.168.50.1:8012/udp/239.94.0.106:5140
 #EXTINF:-1 tvg-id="63" tvg-name="延边卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/YANBIAN1.png" group-title="卫视",延边卫视	
 http://192.168.50.1:8012/udp/239.94.0.107:5140
@@ -305,7 +305,7 @@ http://192.168.50.1:8012/udp/239.94.1.30:5140
 http://192.168.50.1:8012/udp/239.94.1.31:5140
 #EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="卫视",哈哈炫动                                                                                                                                                             
 http://192.168.50.1:8012/udp/239.94.1.9:5140
-#EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="https://github.com/fanmingming/live/raw/main/tv/%E5%B9%BF%E4%B8%9C%E5%98%89%E4%BD%B3%E5%8D%A1%E9%80%9A.png" group-title="卫视",嘉佳卡通                                                                                                                                                             
+#EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/jiajiakatong.png" group-title="卫视",嘉佳卡通                                                                                                                                                             
 http://192.168.50.1:8012/udp/239.94.1.10:5140	
 #EXTINF:-1 tvg-id="6555" tvg-name="梨园" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE20.jpg" group-title="数字付费",梨园
 http://192.168.50.1:8012/udp/239.94.1.16:5140
