@@ -391,7 +391,7 @@ http://192.168.50.1:8012/udp/239.94.1.56:5140
 http://192.168.50.1:8012/udp/239.94.0.161:5140
 #EXTINF:-1 tvg-id="宜宾公共" tvg-name="宜宾公共" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/YBGG.png" group-title="川内地方台",宜宾公共频道
 http://192.168.50.1:8012/udp/239.94.0.172:5140
-#EXTINF:-1 tvg-id="乐山新闻" tvg-name="乐山新闻" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/LSXW.png" group-title="川内地方台",乐山新闻频道
+#EXTINF:-1 tvg-id="乐山新闻" tvg-name="乐山新闻" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/leshanxinwen.png" group-title="川内地方台",乐山新闻频道
 http://192.168.50.1:8012/udp/239.94.0.162:5140
 #EXTINF:-1 tvg-id="乐山文旅" tvg-name="乐山文旅" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/LSWL.png" group-title="川内地方台",乐山文旅频道
 http://192.168.50.1:8012/udp/239.94.0.173:5140
@@ -405,7 +405,7 @@ http://192.168.50.1:8012/udp/239.94.0.164:5140
 http://192.168.50.1:8012/udp/239.94.0.181:5140
 #EXTINF:-1 tvg-id="德阳文旅科教" tvg-name="德阳文旅科教" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/DYWLKJ.png" group-title="川内地方台",德阳文旅科教频道
 http://192.168.50.1:8012/udp/239.94.0.165:5140
-#EXTINF:-1 tvg-id="德阳新闻综合" tvg-name="德阳新闻综合" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/DYXW.png" group-title="川内地方台",德阳新闻综合频道
+#EXTINF:-1 tvg-id="德阳新闻综合" tvg-name="德阳新闻综合" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/deyangxinwen.png" group-title="川内地方台",德阳新闻综合频道
 http://192.168.50.1:8012/udp/239.94.0.176:5140
 #EXTINF:-1 tvg-id="雅安新闻综合" tvg-name="雅安新闻综合" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/YAXW.png" group-title="川内地方台",雅安新闻综合频道
 http://192.168.50.1:8012/udp/239.94.0.166:5140
