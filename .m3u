@@ -155,7 +155,7 @@ http://192.168.50.1:8012/udp/239.94.1.150:5140
 http://192.168.50.1:8012/udp/239.94.1.156:5140
 #EXTINF:-1 tvg-id="4k乐享超清" tvg-name="4k乐享超清" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/4KLXCC.png" group-title="4k",4K乐享超清                                                                                                                                                           
 http://192.168.50.1:8012/udp/239.94.1.162:5140
-#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/hxjc4k.png" group-title="4k",欢笑剧场
+#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/hxjc4k.png" group-title="4k",欢笑剧场
 http://192.168.50.1:8012/udp/239.94.1.176:5140
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/BRTV4K.png" group-title="4k",北京卫视4k
 http://192.168.50.1:8012/udp/239.94.0.112:5140
