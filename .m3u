@@ -127,9 +127,9 @@ http://192.168.50.1:8012/udp/239.94.1.13:5140
 http://192.168.50.1:8012/udp/239.94.1.14:5140
 #EXTINF:-1 tvg-id="大爱时尚" tvg-name="大爱时尚" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/DASS.png" group-title="四川",大爱时尚高清
 http://192.168.50.1:8012/udp/239.94.1.15:5140
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix1.png" group-title="香港",凤凰卫视中文台
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/Phoenix1.png" group-title="香港",凤凰卫视中文台
 http://192.168.50.1:8012/udp/239.94.2.51:5140
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix2.png" group-title="香港",凤凰卫视资讯台
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/Phoenix2.png" group-title="香港",凤凰卫视资讯台
 http://192.168.50.1:8012/udp/239.94.2.49:5140
 #EXTINF:-1 tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/OURCXKWS.png" group-title="香港",星空卫视
 http://192.168.50.1:8012/udp/239.94.2.53:5140
