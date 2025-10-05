@@ -87,7 +87,7 @@ http://192.168.50.1:8012/udp/239.94.0.159:5140
 http://192.168.50.1:8012/udp/239.94.0.160:5140
 #EXTINF:-1 tvg-id="蓉城先锋" tvg-name="蓉城先锋" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/cdtv7.png" group-title="四川",蓉城先锋                                                                                                                                                             
 http://192.168.50.1:8012/udp/239.94.1.57:5140
-#EXTINF:-1 tvg-id="1994" tvg-name="中国交通" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/zgjt.png" group-title="四川",中国交通频道
+#EXTINF:-1 tvg-id="1994" tvg-name="中国交通" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/zgjt.png" group-title="四川",中国交通频道
 http://192.168.50.1:8012/udp/239.94.0.87:5140
 #EXTINF:-1 tvg-id="麻辣体育" tvg-name="麻辣体育" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/MLTY.png" group-title="四川",麻辣体育                                                                                                                                                           
 http://192.168.50.1:8012/udp/239.94.1.149:5140
