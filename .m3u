@@ -43,11 +43,11 @@ http://192.168.50.1:8012/udp/239.94.0.40:5140
 http://192.168.50.1:8012/udp/239.94.1.65:5140
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN法语" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/CGTNF.png" group-title="央视",CGTN法语                                                                                                                                                          
 http://192.168.50.1:8012/udp/239.94.1.66:5140
-#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="央视",CETV-1高清                                                                                                                                                             
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/CETV1.png" group-title="央视",CETV-1高清                                                                                                                                                             
 http://192.168.50.1:8012/udp/239.94.1.2:5140
-#EXTINF:-1 tvg-id="74" tvg-name="中国教育2台 " tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="央视",CETV-2                                                                                                                                                             
+#EXTINF:-1 tvg-id="74" tvg-name="中国教育2台 " tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/CETV2.png" group-title="央视",CETV-2                                                                                                                                                             
 http://192.168.50.1:8012/udp/239.94.1.19:5140
-#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="央视",CETV-4高清                                                                                                                                                             
+#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/CETV4.png" group-title="央视",CETV-4高清                                                                                                                                                             
 http://192.168.50.1:8012/udp/239.94.1.20:5140
 #EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/sctv1.png" group-title="四川",四川卫视高清                                                                                                                                                             
 http://192.168.50.1:8012/udp/239.94.0.59:5140
