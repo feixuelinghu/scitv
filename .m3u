@@ -309,31 +309,31 @@ http://192.168.50.1:8012/udp/239.94.1.9:5140
 http://192.168.50.1:8012/udp/239.94.1.10:5140	
 #EXTINF:-1 tvg-id="6555" tvg-name="梨园" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/lypd.png" group-title="数字付费",梨园
 http://192.168.50.1:8012/udp/239.94.1.16:5140
-#EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="数字付费",金鹰纪实高清
+#EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/jyjs.png" group-title="数字付费",金鹰纪实高清
 http://192.168.50.1:8012/udp/239.94.1.1:5140
-#EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="数字付费",快乐垂钓                                                                                                                                                             
+#EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/klcd.png" group-title="数字付费",快乐垂钓                                                                                                                                                             
 http://192.168.50.1:8012/udp/239.94.1.153:5140
-#EXTINF:-1 tvg-id="6585" tvg-name="茶" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="数字付费",茶频道                                                                                                                                                             
+#EXTINF:-1 tvg-id="6585" tvg-name="茶" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/chapd.png" group-title="数字付费",茶频道                                                                                                                                                             
 http://192.168.50.1:8012/udp/239.94.1.154:5140
-#EXTINF:-1 tvg-id="6602" tvg-name="先锋乒羽" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/XFBY.png" group-title="数字付费",先锋乒羽                                                                                                                                                             
+#EXTINF:-1 tvg-id="6602" tvg-name="先锋乒羽" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/xfpy.png" group-title="数字付费",先锋乒羽                                                                                                                                                             
 http://192.168.50.1:8012/udp/239.94.1.151:5140
-#EXTINF:-1 tvg-id="6244" tvg-name="求索记录" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.png" group-title="数字付费",求索记录                                                                                                                                                             
+#EXTINF:-1 tvg-id="6244" tvg-name="求索记录" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/Qiusuo1.png" group-title="数字付费",求索记录                                                                                                                                                             
 http://192.168.50.1:8012/udp/239.94.1.142:5140
-#EXTINF:-1 tvg-id="精彩影视" tvg-name="精彩影视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jcys.png" group-title="数字付费",精彩影视
+#EXTINF:-1 tvg-id="精彩影视" tvg-name="精彩影视" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/jcys.png" group-title="数字付费",精彩影视
 http://192.168.50.1:8012/udp/239.94.1.172:5140
-#EXTINF:-1 tvg-id="6578" tvg-name="天元围棋" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/TIANYUANWEIQI.jpg" group-title="数字付费",天元围棋                                                                                                                                                             
+#EXTINF:-1 tvg-id="6578" tvg-name="天元围棋" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/tywq.png" group-title="数字付费",天元围棋                                                                                                                                                             
 http://192.168.50.1:8012/udp/239.94.1.152:5140
-#EXTINF:-1 tvg-id="6608" tvg-name="环球旅游" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC6.jpg" group-title="数字付费",环球旅游                                                                                                                                                             
+#EXTINF:-1 tvg-id="6608" tvg-name="环球旅游" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/hqly.png" group-title="数字付费",环球旅游                                                                                                                                                             
 http://192.168.50.1:8012/udp/239.94.1.147:5140
-#EXTINF:-1 tvg-id="6596" tvg-name="书画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE37.jpg" group-title="数字付费",书画频道
+#EXTINF:-1 tvg-id="6596" tvg-name="书画" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/shpd.png" group-title="数字付费",书画频道
 http://192.168.50.1:8012/udp/239.94.1.163:5140
-#EXTINF:-1 tvg-id="6606" tvg-name="四海钓鱼" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC4.jpg" group-title="数字付费",四海钓鱼
+#EXTINF:-1 tvg-id="6606" tvg-name="四海钓鱼" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/shdy.png" group-title="数字付费",四海钓鱼
 http://192.168.50.1:8012/udp/239.94.1.168:5140
-#EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/zgtq.png" group-title="数字付费",中国天气
+#EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/zgtq.png" group-title="数字付费",中国天气
 http://192.168.50.1:8012/udp/239.94.1.167:5140
-#EXTINF:-1 tvg-id="6623" tvg-name="财富天下" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/cftx.png" group-title="数字付费",财富天下                                                                                                                                                             
+#EXTINF:-1 tvg-id="6623" tvg-name="财富天下" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/cftx.png" group-title="数字付费",财富天下                                                                                                                                                             
 http://192.168.50.1:8012/udp/239.94.1.67:5140
-#EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="数字付费",游戏风云                                                                                                                                                            
+#EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/yxfy.png" group-title="数字付费",游戏风云                                                                                                                                                            
 http://192.168.50.1:8012/udp/239.94.1.46:5140
 #EXTINF:-1 tvg-id="家庭理财" tvg-name="家庭理财" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/jtlc.png" group-title="数字付费",家庭理财                                                                                                                                                           
 http://192.168.50.1:8012/udp/239.94.1.50:5140
