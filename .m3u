@@ -177,21 +177,21 @@ http://192.168.50.1:8012/udp/239.94.0.119:5140
 http://192.168.50.1:8012/udp/239.94.0.120:5140
 #EXTINF:-1 tvg-id="天翼高清" tvg-name="天翼高清" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/TYGQ.png" group-title="4k",天翼高清4k
 http://192.168.50.1:8012/udp/239.94.2.40:5140
-#EXTINF:-1 tvg-id="纪实科教" tvg-name="纪实科教" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing5.png" group-title="上海",BRTV纪实科教高清
+#EXTINF:-1 tvg-id="纪实科教" tvg-name="纪实科教" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/jskj.png" group-title="上海",BRTV纪实科教高清
 http://192.168.50.1:8012/udp/239.94.0.109:5140
-#EXTINF:-1 tvg-id="SITV都市剧场" tvg-name="SITV都市剧场" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/dsjc.png" group-title="上海",都市剧场                                                                                                                                                           
+#EXTINF:-1 tvg-id="SITV都市剧场" tvg-name="SITV都市剧场" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/dsjc.png" group-title="上海",都市剧场                                                                                                                                                           
 http://192.168.50.1:8012/udp/239.94.1.133:5140
-#EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/shss.png" group-title="上海",生活时尚                                                                                                                                                             
+#EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/shss.png" group-title="上海",生活时尚                                                                                                                                                             
 http://192.168.50.1:8012/udp/239.94.1.146:5140
-#EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/dfcj.png" group-title="上海",东方财经                                                                                                                                                   
+#EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/dfcj.png" group-title="上海",东方财经                                                                                                                                                   
 http://192.168.50.1:8012/udp/239.94.1.59:5140
-#EXTINF:-1 tvg-id="金色学堂" tvg-name="金色学堂" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jsxt.png" group-title="上海",金色学堂
+#EXTINF:-1 tvg-id="金色学堂" tvg-name="金色学堂" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/jsxt.png" group-title="上海",金色学堂
 http://192.168.50.1:8012/udp/239.94.1.165:5140
-#EXTINF:-1 tvg-id="法治天地" tvg-name="法治天地" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/fztd.png" group-title="上海",法治天地
+#EXTINF:-1 tvg-id="法治天地" tvg-name="法治天地" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/fztd.png" group-title="上海",法治天地
 http://192.168.50.1:8012/udp/239.94.1.166:5140
-#EXTINF:-1 tvg-id="乐游" tvg-name="乐游" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/leyou.png" group-title="上海",乐游
+#EXTINF:-1 tvg-id="乐游" tvg-name="乐游" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/leyou.png" group-title="上海",乐游
 http://192.168.50.1:8012/udp/239.94.1.164:5140
-#EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/dmxc.png" group-title="上海",动漫秀场
+#EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/dmxc.png" group-title="上海",动漫秀场
 http://192.168.50.1:8012/udp/239.94.1.171:5140
 #EXTINF:-1,tvg-id="爱浪漫" tvg-name="iHOT爱浪漫" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/ihot09.png" group-title="iHOT",iHOT爱浪漫                                                                                                                                                            
 http://192.168.50.1:8012/udp/239.94.1.128:5140
