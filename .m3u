@@ -387,9 +387,9 @@ http://192.168.50.1:8012/udp/239.94.1.48:5140
 http://192.168.50.1:8012/udp/239.94.1.51:5140
 #EXTINF:-1 tvg-id="收视指南" tvg-name="收视指南" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/shoushizhinan.png" group-title="数字付费",收视指南                                                                                                                                                             
 http://192.168.50.1:8012/udp/239.94.1.56:5140
-#EXTINF:-1 tvg-id="宜宾新闻" tvg-name="宜宾新闻" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/YBXW.png" group-title="川内地方台",宜宾新闻综合频道
+#EXTINF:-1 tvg-id="宜宾新闻" tvg-name="宜宾新闻" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/yibinxinwen.png" group-title="川内地方台",宜宾新闻综合频道
 http://192.168.50.1:8012/udp/239.94.0.161:5140
-#EXTINF:-1 tvg-id="宜宾公共" tvg-name="宜宾公共" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/YBGG.png" group-title="川内地方台",宜宾公共频道
+#EXTINF:-1 tvg-id="宜宾公共" tvg-name="宜宾公共" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/yibingonggong.png" group-title="川内地方台",宜宾公共频道
 http://192.168.50.1:8012/udp/239.94.0.172:5140
 #EXTINF:-1 tvg-id="乐山新闻" tvg-name="乐山新闻" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/leshanxinwen.png" group-title="川内地方台",乐山新闻频道
 http://192.168.50.1:8012/udp/239.94.0.162:5140
