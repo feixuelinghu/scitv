@@ -221,89 +221,89 @@ http://192.168.50.1:8012/udp/239.94.1.141:5140
 http://192.168.50.1:8012/udp/239.94.1.143:5140
 #EXTINF:-1,tvg-id="爱赛车" tvg-name="iHOT爱赛车" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/ihot16.png" group-title="iHOT",iHOT爱赛车                                                                                                                                                           
 http://192.168.50.1:8012/udp/239.94.1.144:5140	                                                                                                                                           
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视高清                                                                                                                                                            
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/Hunan.png" group-title="卫视",湖南卫视高清                                                                                                                                                            
 http://192.168.50.1:8012/udp/239.94.0.61:5140
-#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视高清                                                                                                                                                             
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/Jiangsu.png" group-title="卫视",江苏卫视高清                                                                                                                                                             
 http://192.168.50.1:8012/udp/239.94.0.62:5140
-#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视高清                                                                                                                                                             
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/Zhejiang.png" group-title="卫视",浙江卫视高清                                                                                                                                                             
 http://192.168.50.1:8012/udp/239.94.0.63:5140
-#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视高清                                                                                                                                                           
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/Dongfang.png" group-title="卫视",东方卫视高清                                                                                                                                                           
 http://192.168.50.1:8012/udp/239.94.0.64:5140
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/Beijing.png" group-title="卫视",北京卫视高清                                                                                                                                                           
 http://192.168.50.1:8012/udp/239.94.0.65:5140
-#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视",深圳卫视高清                                                                                                                                                         
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/Shenzhen.png" group-title="卫视",深圳卫视高清                                                                                                                                                         
 http://192.168.50.1:8012/udp/239.94.0.66:5140
-#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视高清                                                                                                                                                             
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/Guangdong.png" group-title="卫视",广东卫视高清                                                                                                                                                             
 http://192.168.50.1:8012/udp/239.94.0.67:5140
-#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视",天津卫视高清                                                                                                                                                            
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/Tianjin.png" group-title="卫视",天津卫视高清                                                                                                                                                            
 http://192.168.50.1:8012/udp/239.94.0.68:5140
-#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视",山东卫视高清                                                                                                                                                             
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/Shandong.png" group-title="卫视",山东卫视高清                                                                                                                                                             
 http://192.168.50.1:8012/udp/239.94.0.69:5140	
-#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="卫视",江西卫视高清                                                                                                                                                           
+#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/Jiangxi.png" group-title="卫视",江西卫视高清                                                                                                                                                           
 http://192.168.50.1:8012/udp/239.94.0.79:5140
-#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视",东南卫视高清                                                                                                                                                             
+#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/Dongnan.png" group-title="卫视",东南卫视高清                                                                                                                                                             
 http://192.168.50.1:8012/udp/239.94.0.80:5140
-#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视",黑龙江卫视高清
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/Heilongjiang.png" group-title="卫视",黑龙江卫视高清
 http://192.168.50.1:8012/udp/239.94.0.81:5140
 #EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视",重庆卫视高清                                                                                                                                                          
 http://192.168.50.1:8012/udp/239.94.0.82:5140
-#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="卫视",贵州卫视高清                                                                                                                                                             
+#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/Guizhou.png" group-title="卫视",贵州卫视高清                                                                                                                                                             
 http://192.168.50.1:8012/udp/239.94.0.83:5140
-#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视",湖北卫视高清                                                                                                                                                            
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/Hubei.png" group-title="卫视",湖北卫视高清                                                                                                                                                            
 http://192.168.50.1:8012/udp/239.94.0.84:5140
-#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视",安徽卫视高清                                                                                                                                                            
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/Anhui.png" group-title="卫视",安徽卫视高清                                                                                                                                                            
 http://192.168.50.1:8012/udp/239.94.0.85:5140
-#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="卫视",河北卫视高清                                                                                                                                                            
+#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/Hebei.png" group-title="卫视",河北卫视高清                                                                                                                                                            
 http://192.168.50.1:8012/udp/239.94.0.86:5140
-#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视",辽宁卫视高清                                                                                                                                                             
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/Liaoning.png" group-title="卫视",辽宁卫视高清                                                                                                                                                             
 http://192.168.50.1:8012/udp/239.94.0.101:5140
-#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视",河南卫视高清                                                                                                                                                             
+#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/Henan.png" group-title="卫视",河南卫视高清                                                                                                                                                             
 http://192.168.50.1:8012/udp/239.94.0.88:5140
-#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="卫视",广西卫视高清                                                                                                                                                             
+#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/Guangxi.png" group-title="卫视",广西卫视高清                                                                                                                                                             
 http://192.168.50.1:8012/udp/239.94.0.89:5140
-#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="卫视",云南卫视高清                                                                                                                                                             
+#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/Yunnan.png" group-title="卫视",云南卫视高清                                                                                                                                                             
 http://192.168.50.1:8012/udp/239.94.0.90:5140
-#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="卫视",吉林卫视高清                                                                                                                                                              
+#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/Jilin.png" group-title="卫视",吉林卫视高清                                                                                                                                                              
 http://192.168.50.1:8012/udp/239.94.0.91:5140	
-#EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="卫视",陕西卫视高清                                                                                                                                                          
+#EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/Shanxi.png" group-title="卫视",陕西卫视高清                                                                                                                                                          
 http://192.168.50.1:8012/udp/239.94.0.92:5140
-#EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="卫视",山西卫视                                                                                                                                                             
+#EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/Shanxi_.png" group-title="卫视",山西卫视                                                                                                                                                             
 http://192.168.50.1:8012/udp/239.94.0.93:5140
-#EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="卫视",内蒙古卫视                                                                                                                                                            
+#EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/Neimeng.png" group-title="卫视",内蒙古卫视                                                                                                                                                            
 http://192.168.50.1:8012/udp/239.94.0.94:5140
-#EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="卫视",青海卫视                                                                                                                                                            
+#EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/Qinghai.png" group-title="卫视",青海卫视                                                                                                                                                            
 http://192.168.50.1:8012/udp/239.94.0.95:5140
 #EXTINF:-1 tvg-id="60" tvg-name="安多卫视" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/Anduo.png" group-title="卫视",安多卫视                                                                                                                                                            
 http://192.168.50.1:8012/udp/239.94.0.110:5140
-#EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="卫视",宁夏卫视                                                                                                                                                            
+#EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/Ningxia.png" group-title="卫视",宁夏卫视                                                                                                                                                            
 http://192.168.50.1:8012/udp/239.94.0.96:5140
-#EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="卫视",西藏卫视高清                                                                                                                                                            
+#EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/Xizang.png" group-title="卫视",西藏卫视高清                                                                                                                                                            
 http://192.168.50.1:8012/udp/239.94.0.97:5140
-#EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="卫视",新疆卫视高清                                                                                                                                                           
+#EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/Xinjiang.png" group-title="卫视",新疆卫视高清                                                                                                                                                           
 http://192.168.50.1:8012/udp/239.94.0.98:5140
-#EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="卫视",甘肃卫视高清                                                                                                                                                           
+#EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/Gansu.png" group-title="卫视",甘肃卫视高清                                                                                                                                                           
 http://192.168.50.1:8012/udp/239.94.0.99:5140
-#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视",海南卫视                                                                                                                                                             
+#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/Hainan.png" group-title="卫视",海南卫视                                                                                                                                                             
 http://192.168.50.1:8012/udp/239.94.0.100:5140
 #EXTINF:-1 tvg-id="农林卫视"tvg-name="农林卫视" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/Nonglin.png" group-title="卫视",农林卫视                                                                                                                                                           
 http://192.168.50.1:8012/udp/239.94.0.108:5140
-#EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="卫视",兵团卫视高清                                                                                                                                                            
+#EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/Bingtuan.png" group-title="卫视",兵团卫视高清                                                                                                                                                            
 http://192.168.50.1:8012/udp/239.94.0.102:5140
 #EXTINF:-1 tvg-id="68" tvg-name="厦门卫视" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/xiamen.png" group-title="卫视",厦门卫视                                                                                                                                                             
 http://192.168.50.1:8012/udp/239.94.0.104:5140
-#EXTINF:-1 tvg-id="72" tvg-name="三沙卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sansha.png" group-title="卫视",三沙卫视                                                                                                                                                             
+#EXTINF:-1 tvg-id="72" tvg-name="三沙卫视" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/Sansha.png" group-title="卫视",三沙卫视                                                                                                                                                             
 http://192.168.50.1:8012/udp/239.94.0.105:5140
 #EXTINF:-1 tvg-id="山东教育卫视" tvg-name="山东教育卫视" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/Shandongjy.png" group-title="卫视",山东教育卫视                                                                                                                                                             
 http://192.168.50.1:8012/udp/239.94.0.106:5140
-#EXTINF:-1 tvg-id="63" tvg-name="延边卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/YANBIAN1.png" group-title="卫视",延边卫视	
+#EXTINF:-1 tvg-id="63" tvg-name="延边卫视" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/Yanbian.png" group-title="卫视",延边卫视	
 http://192.168.50.1:8012/udp/239.94.0.107:5140
-#EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="卫视",卡酷动画                                                                                                                                                             
+#EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/Beijing8.png" group-title="卫视",卡酷动画                                                                                                                                                             
 http://192.168.50.1:8012/udp/239.94.1.29:5140
 #EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/jykt.png" group-title="卫视",金鹰卡通                                                                                                                                                           
 http://192.168.50.1:8012/udp/239.94.1.30:5140
-#EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png" group-title="卫视",优漫卡通                                                                                                                                                             
+#EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/ymkt.png" group-title="卫视",优漫卡通                                                                                                                                                             
 http://192.168.50.1:8012/udp/239.94.1.31:5140
-#EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="卫视",哈哈炫动                                                                                                                                                             
+#EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/hhxd.png" group-title="卫视",哈哈炫动                                                                                                                                                             
 http://192.168.50.1:8012/udp/239.94.1.9:5140
 #EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/jiajiakatong.png" group-title="卫视",嘉佳卡通                                                                                                                                                             
 http://192.168.50.1:8012/udp/239.94.1.10:5140	
