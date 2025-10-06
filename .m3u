@@ -393,7 +393,7 @@ http://192.168.50.1:8012/udp/239.94.0.161:5140
 http://192.168.50.1:8012/udp/239.94.0.172:5140
 #EXTINF:-1 tvg-id="乐山新闻" tvg-name="乐山新闻" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/leshanxinwen.png" group-title="川内地方台",乐山新闻频道
 http://192.168.50.1:8012/udp/239.94.0.162:5140
-#EXTINF:-1 tvg-id="乐山文旅" tvg-name="乐山文旅" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/LSWL.png" group-title="川内地方台",乐山文旅频道
+#EXTINF:-1 tvg-id="乐山文旅" tvg-name="乐山文旅" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/leshanwenlv.png" group-title="川内地方台",乐山文旅频道
 http://192.168.50.1:8012/udp/239.94.0.173:5140
 #EXTINF:-1 tvg-id="泸州新闻" tvg-name="泸州新闻" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/LZXW.png" group-title="川内地方台",泸州新闻综合频道
 http://192.168.50.1:8012/udp/239.94.0.163:5140
