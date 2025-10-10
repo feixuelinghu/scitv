@@ -193,7 +193,7 @@ http://192.168.50.1:8012/udp/239.94.1.166:5140
 http://192.168.50.1:8012/udp/239.94.1.164:5140
 #EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/dmxc.png" group-title="上海",动漫秀场
 http://192.168.50.1:8012/udp/239.94.1.171:5140
-#EXTINF:-1,tvg-id="爱浪漫" tvg-name="iHOT爱浪漫" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/ihot09.png" group-title="iHOT",iHOT爱浪漫                                                                                                                                                            
+#EXTINF:-1,tvg-id="爱浪漫" tvg-name="爱浪漫" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/ihot09.png" group-title="iHOT",iHOT爱浪漫                                                                                                                                                            
 http://192.168.50.1:8012/udp/239.94.1.128:5140
 #EXTINF:-1,tvg-id="爱喜剧" tvg-name="iHOT爱喜剧" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/ihot03.png" group-title="iHOT",iHOT爱喜剧                                                                                                                                                         
 http://192.168.50.1:8012/udp/239.94.1.129:5140
@@ -361,15 +361,15 @@ http://192.168.50.1:8012/udp/239.94.1.34:5140
 http://192.168.50.1:8012/udp/239.94.1.35:5140
 #EXTINF:-1 tvg-id="85" tvg-name="电竞天堂" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/BesTVDJTT.png" group-title="数字付费",电竞天堂
 http://192.168.50.1:8012/udp/239.94.1.45:5140
-#EXTINF:-1 tvg-id="看天下精选" tvg-name="看天下精选" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/ktxjx.png" group-title="数字付费",看天下精选
+#EXTINF:-1 tvg-id="看天下精选" tvg-name="BesTV看天下精选" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/ktxjx.png" group-title="数字付费",看天下精选
 http://192.168.50.1:8012/udp/239.94.1.68:5140
-#EXTINF:-1 tvg-id="经典电影" tvg-name="经典电影" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/Jingdiandianying.png" group-title="数字付费",经典电影
+#EXTINF:-1 tvg-id="经典电影" tvg-name="华数经典电影" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/Jingdiandianying.png" group-title="数字付费",经典电影
 http://192.168.50.1:8012/udp/239.94.1.21:5140
-#EXTINF:-1 tvg-id="热播剧场" tvg-name="热播剧场" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/Rebojuchang.png" group-title="数字付费",热播剧场                                                                                                                                                             
+#EXTINF:-1 tvg-id="热播剧场" tvg-name="华数热播剧场" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/Rebojuchang.png" group-title="数字付费",热播剧场                                                                                                                                                             
 http://192.168.50.1:8012/udp/239.94.1.25:5140
-#EXTINF:-1 tvg-id="少儿动画" tvg-name="少儿动画" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/Shaoerdonghua.png" group-title="数字付费",少儿动画                                                                                                                                                         
+#EXTINF:-1 tvg-id="少儿动画" tvg-name="华数少儿动画" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/Shaoerdonghua.png" group-title="数字付费",少儿动画                                                                                                                                                         
 http://192.168.50.1:8012/udp/239.94.1.33:5140
-#EXTINF:-1 tvg-id="魅力时尚" tvg-name="魅力时尚" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/Meilishishang.png" group-title="数字付费",魅力时尚                                                                                                                                                           
+#EXTINF:-1 tvg-id="魅力时尚" tvg-name="华数魅力时尚" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/Meilishishang.png" group-title="数字付费",魅力时尚                                                                                                                                                           
 http://192.168.50.1:8012/udp/239.94.1.39:5140
 #EXTINF:-1 tvg-id="音乐现场" tvg-name="音乐现场高清" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/yinyuexianchang.png" group-title="数字付费",音乐现场                                                                                                                                                           
 http://192.168.50.1:8012/udp/239.94.1.36:5140
