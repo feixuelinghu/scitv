@@ -309,8 +309,6 @@ http://192.168.50.1:8012/udp/239.94.1.1:5140
 http://192.168.50.1:8012/udp/239.94.1.153:5140
 #EXTINF:-1 tvg-id="6585" tvg-name="茶" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/chapd.png" group-title="数字付费",茶频道                                                                                                                                                             
 http://192.168.50.1:8012/udp/239.94.1.154:5140
-#EXTINF:-1 tvg-id="6602" tvg-name="先锋乒羽" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/xfpy.png" group-title="数字付费",先锋乒羽                                                                                                                                                             
-http://192.168.50.1:8012/udp/239.94.1.151:5140
 #EXTINF:-1 tvg-id="6244" tvg-name="求索记录" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/Qiusuo1.png" group-title="数字付费",求索记录                                                                                                                                                             
 http://192.168.50.1:8012/udp/239.94.1.142:5140
 #EXTINF:-1 tvg-id="精彩影视" tvg-name="精彩影视" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/jcys.png" group-title="数字付费",精彩影视
