@@ -301,8 +301,6 @@ http://192.168.50.1:8012/udp/239.94.1.30:5140
 http://192.168.50.1:8012/udp/239.94.1.31:5140
 #EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/jiajiakatong.png" group-title="卫视",嘉佳卡通                                                                                                                                                             
 http://192.168.50.1:8012/udp/239.94.1.10:5140	
-#EXTINF:-1 tvg-id="6555" tvg-name="梨园" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/lypd.png" group-title="数字付费",梨园
-http://192.168.50.1:8012/udp/239.94.1.16:5140
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/jyjs.png" group-title="数字付费",金鹰纪实高清
 http://192.168.50.1:8012/udp/239.94.1.1:5140
 #EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/klcd.png" group-title="数字付费",快乐垂钓                                                                                                                                                             
