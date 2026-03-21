@@ -319,8 +319,6 @@ http://192.168.50.1:8012/udp/239.94.1.163:5140
 http://192.168.50.1:8012/udp/239.94.1.168:5140
 #EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/zgtq.png" group-title="数字付费",中国天气
 http://192.168.50.1:8012/udp/239.94.1.167:5140
-#EXTINF:-1 tvg-id="6623" tvg-name="财富天下" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/cftx.png" group-title="数字付费",财富天下                                                                                                                                                             
-http://192.168.50.1:8012/udp/239.94.1.67:5140
 #EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/yxfy.png" group-title="数字付费",游戏风云                                                                                                                                                            
 http://192.168.50.1:8012/udp/239.94.1.46:5140
 #EXTINF:-1 tvg-id="家庭理财" tvg-name="家庭理财" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/jtlc.png" group-title="数字付费",家庭理财                                                                                                                                                           
