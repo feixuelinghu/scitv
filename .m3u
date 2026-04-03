@@ -81,7 +81,7 @@ http://192.168.50.1:8012/udp/239.94.0.157:5140
 http://192.168.50.1:8012/udp/239.94.0.158:5140
 #EXTINF:-1 tvg-id="2069" tvg-name="CDTV6" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/cdtv6.png" group-title="四川",CDTV-6高清                                                                                                                                                             
 http://192.168.50.1:8012/udp/239.94.0.159:5140
-#EXTINF:-1 tvg-id="" tvg-name="CDTV8" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/cdtv8.png" group-title="四川",CDTV-8高清                                                                                                                                                          
+#EXTINF:-1 tvg-id="" tvg-name="成都每日购物" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/cdtv8.png" group-title="四川",CDTV-8高清                                                                                                                                                          
 http://192.168.50.1:8012/udp/239.94.0.160:5140
 #EXTINF:-1 tvg-id="蓉城先锋" tvg-name="蓉城先锋" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/cdtv7.png" group-title="四川",蓉城先锋                                                                                                                                                             
 http://192.168.50.1:8012/udp/239.94.1.57:5140
@@ -289,13 +289,13 @@ http://192.168.50.1:8012/udp/239.94.0.105:5140
 http://192.168.50.1:8012/udp/239.94.0.106:5140
 #EXTINF:-1 tvg-id="63" tvg-name="延边卫视" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/Yanbian.png" group-title="卫视",延边卫视	
 http://192.168.50.1:8012/udp/239.94.0.107:5140
-#EXTINF:-1 tvg-id="67" tvg-name="卡酷" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/Beijing8.png" group-title="卫视",卡酷动画                                                                                                                                                             
+#EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/Beijing8.png" group-title="卫视",卡酷动画                                                                                                                                                             
 http://192.168.50.1:8012/udp/239.94.1.29:5140
 #EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/jykt.png" group-title="卫视",金鹰卡通                                                                                                                                                           
 http://192.168.50.1:8012/udp/239.94.1.30:5140
 #EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/ymkt.png" group-title="卫视",优漫卡通                                                                                                                                                             
 http://192.168.50.1:8012/udp/239.94.1.31:5140
-#EXTINF:-1 tvg-id="6010" tvg-name="嘉佳" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/jiajiakatong.png" group-title="卫视",嘉佳卡通                                                                                                                                                             
+#EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/jiajiakatong.png" group-title="卫视",嘉佳卡通                                                                                                                                                             
 http://192.168.50.1:8012/udp/239.94.1.10:5140	
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/jyjs.png" group-title="数字付费",金鹰纪实高清
 http://192.168.50.1:8012/udp/239.94.1.1:5140
