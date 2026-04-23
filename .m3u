@@ -41,7 +41,7 @@ http://192.168.50.1:8012/udp/239.94.0.40:5140
 http://192.168.50.1:8012/udp/239.94.1.65:5140
 #EXTINF:-1 tvg-id="21" tvg-name="CGTN法语" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/CGTNF.png" group-title="央视",CGTN法语                                                                                                                                                          
 http://192.168.50.1:8012/udp/239.94.1.66:5140
-#EXTINF:-1 tvg-id="22" tvg-name="CGTN英语记录" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/CGTN-Documentary.png" group-title="央视",CGTN英语记录                                                                                                                                                         
+#EXTINF:-1 tvg-id="22" tvg-name="CGTN记录" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/CGTN-Documentary.png" group-title="央视",CGTN记录                                                                                                                                                         
 http://192.168.50.1:8012/udp/239.94.2.141:5140
 #EXTINF:-1 tvg-id="23" tvg-name="CGTN阿拉伯语" tvg-logo="https://github.com/feixuelinghu/feixue/raw/main/CGTN-alabo.png" group-title="央视",CGTN阿拉伯语                                                                                                                                                  
 http://192.168.50.1:8012/udp/239.94.2.144:5140
